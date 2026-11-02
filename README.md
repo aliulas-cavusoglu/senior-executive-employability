@@ -49,7 +49,6 @@ The notebook reads the data from the `data` folder using a relative path, so kee
 
 The report refers to notebook cells by their number (for example "cell 95"). These numbers are the `In [n]` numbers you see after **Restart & Run All**, and they go from 1 to 114.
 
-One large chart (a 12x12 pairplot) was removed from the saved notebook to keep the file small. It appears again when you run the notebook.
 
 ## About the data
 
@@ -59,4 +58,4 @@ The sample is not random. Most respondents come from one business school and ear
 
 ## Author
 
-Ali CAVUSOGLU
+Ali Ulas CAVUSOGLU
