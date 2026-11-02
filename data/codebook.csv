@@ -1,0 +1,24 @@
+variable,description,type,values
+respondent,Respondent number (arbitrary),integer,1 to 460
+competence,Competence: mean of 3 items,quantitative (score),1 to 7
+anticipation,Anticipation: mean of 3 items,quantitative (score),1 to 7
+flexibility,Flexibility: mean of 3 items,quantitative (score),1 to 7
+job_search_techniques,Job search techniques: mean of 4 items,quantitative (score),1 to 7
+self_efficacy,Professional self-efficacy (confidence in one's ability to find another job): mean of 3 items,quantitative (score),1 to 7
+training,Training: mean of 7 items,quantitative (score),1 to 7
+alternative_employment,Alternative forms of employment: mean of 7 items,quantitative (score),1 to 7
+value_awareness,Awareness of one's own value: mean of 4 items,quantitative (score),1 to 7
+market_knowledge,Knowledge of the labour market reality: mean of 3 items,quantitative (score),1 to 7
+versatility,Versatility: mean of 3 items,quantitative (score),1 to 7
+know_how_visibility,Visibility of know-how: mean of 3 items,quantitative (score),1 to 7
+networks,Networks: mean of 5 items,quantitative (score),1 to 7
+sex,Gender,categorical,Male / Female
+job_status,Current situation,categorical,Employed / Job seeker
+education_place,Country where the highest degree was obtained,categorical,France / Abroad
+education_level,Level of education (years after the French baccalaureate),categorical,Bachelor (3 years) / Master (4-5 years) / Beyond master (> 5 years)
+degree_type,Type of higher education degree,categorical,Business school / Engineering school / University / Other
+sector,Current (or last) sector of activity,categorical,"Finance & insurance / Real estate / Construction / Education, health & social work / Industry / Information & communication / Trade, transport, hotels & restaurants / Business support services / Other"
+family_status,Personal situation,categorical,Single / Couple / Couple with children
+age,Age (years),quantitative,45 to 65
+children,Number of dependent children,quantitative (discrete),0 to 4 (4 = 4 or more)
+salary_band,"Last (or current) gross annual salary, in thousand euros",ordinal,< 20k / 20-29k / 30-39k / 40-49k / 50-59k / 60-69k / 70-79k / 80-89k / 90-99k / > 99k

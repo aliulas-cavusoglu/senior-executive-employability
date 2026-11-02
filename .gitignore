@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+.venv/
+venv/
+
+# Local backups
+backup/

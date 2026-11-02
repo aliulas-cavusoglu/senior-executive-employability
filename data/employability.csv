@@ -1,0 +1,461 @@
+respondent,competence,anticipation,flexibility,job_search_techniques,self_efficacy,training,alternative_employment,value_awareness,market_knowledge,versatility,know_how_visibility,networks,sex,job_status,education_place,education_level,degree_type,sector,family_status,age,children,salary_band
+1,7.0,6.0,6.67,6.25,4.67,5.14,4.29,6.0,5.67,6.67,4.67,5.4,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,47,2,> 99k
+2,7.0,7.0,6.0,6.5,2.67,4.57,1.0,5.5,5.33,5.0,4.33,6.2,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Single,46,0,70-79k
+3,7.0,5.33,7.0,7.0,1.0,4.57,5.43,4.5,6.0,7.0,7.0,6.8,Male,Job seeker,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,51,4,> 99k
+4,7.0,7.0,5.0,7.0,1.0,4.14,2.43,4.5,7.0,7.0,7.0,7.0,Female,Job seeker,France,Beyond master (> 5 years),Business school,Information & communication,Couple with children,54,3,90-99k
+5,6.0,5.0,5.0,3.75,3.67,4.57,3.71,4.75,4.33,3.0,5.33,5.2,Female,Job seeker,France,Master (4-5 years),Other,"Education, health & social work",Couple with children,55,1,< 20k
+6,7.0,6.33,5.67,5.5,3.33,2.86,1.0,6.5,5.0,5.33,4.67,5.2,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,53,1,> 99k
+7,7.0,7.0,5.33,5.75,3.33,2.43,3.57,3.25,3.0,6.33,3.33,5.2,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,49,3,> 99k
+8,7.0,5.67,5.33,6.5,5.33,5.0,3.0,6.5,5.67,5.33,5.33,5.2,Female,Employed,France,Beyond master (> 5 years),Other,Other,Couple with children,46,3,40-49k
+9,5.67,4.0,3.33,3.0,2.33,2.86,3.43,4.5,3.0,3.33,4.0,2.6,Male,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Couple with children,48,4,> 99k
+10,6.0,4.67,4.67,3.5,2.67,3.57,1.0,4.0,5.33,6.67,4.33,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,47,2,> 99k
+11,6.67,6.0,6.67,4.25,5.67,2.29,2.57,6.75,6.33,5.33,5.33,3.0,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,53,3,> 99k
+12,7.0,6.0,5.0,5.5,4.0,3.43,1.43,6.0,5.33,6.67,6.0,4.6,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,47,4,> 99k
+13,7.0,6.33,4.33,6.25,2.0,6.29,2.0,5.75,6.0,2.67,2.33,2.0,Male,Employed,France,Beyond master (> 5 years),Engineering school,Finance & insurance,Couple with children,54,1,70-79k
+14,5.0,5.0,4.67,4.75,3.67,3.57,2.86,6.0,4.0,3.67,4.0,2.4,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,54,1,> 99k
+15,6.33,6.0,5.0,5.75,2.67,3.57,2.86,4.5,4.67,5.0,4.33,5.4,Male,Employed,France,Master (4-5 years),Business school,Real estate,Couple with children,56,1,> 99k
+16,7.0,6.67,6.67,6.75,5.67,4.43,1.57,6.0,6.0,5.33,5.67,6.0,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,48,2,> 99k
+17,6.67,5.33,3.67,2.75,3.0,5.0,2.71,4.5,3.0,2.0,4.0,4.2,Female,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,53,2,> 99k
+18,7.0,5.33,4.67,3.5,2.33,3.0,2.71,3.25,5.0,6.0,3.0,2.2,Female,Job seeker,France,Beyond master (> 5 years),Engineering school,Industry,Couple with children,59,0,90-99k
+19,6.0,5.0,4.33,6.0,2.0,4.14,2.0,6.25,4.33,4.67,5.33,7.0,Female,Employed,France,Beyond master (> 5 years),Engineering school,Business support services,Couple,50,4,> 99k
+20,5.67,5.33,5.0,6.5,2.67,3.14,2.86,5.25,5.0,4.0,3.33,5.2,Male,Employed,France,Master (4-5 years),Business school,Other,Couple with children,52,3,60-69k
+21,6.0,6.0,4.67,4.5,5.0,3.43,1.86,5.75,6.0,5.0,4.33,5.2,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,53,4,> 99k
+22,6.0,5.33,4.33,4.25,4.0,2.57,2.86,5.5,5.0,5.0,3.67,2.0,Male,Employed,France,Master (4-5 years),Business school,Other,Couple with children,51,3,> 99k
+23,7.0,6.33,4.67,6.25,4.67,5.29,1.43,6.0,5.33,2.33,5.67,5.4,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,46,2,> 99k
+24,6.0,5.67,6.0,6.0,4.33,6.14,4.43,6.0,6.0,6.0,5.33,7.0,Female,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,47,3,> 99k
+25,5.67,6.33,5.33,5.75,4.33,7.0,4.86,7.0,7.0,6.0,5.67,6.0,Male,Job seeker,France,Beyond master (> 5 years),Business school,Other,Couple with children,46,2,60-69k
+26,6.0,4.67,5.33,5.75,4.33,2.86,4.29,5.75,5.33,6.33,4.33,5.2,Male,Job seeker,France,Master (4-5 years),Business school,Business support services,Single,47,0,> 99k
+27,5.0,4.0,4.0,6.5,3.67,2.43,4.0,7.0,6.67,5.0,4.0,5.2,Female,Employed,France,Master (4-5 years),Engineering school,Industry,Couple with children,49,4,40-49k
+28,7.0,7.0,6.67,6.75,5.0,4.14,5.29,6.75,6.33,5.67,6.67,6.4,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,46,4,> 99k
+29,6.33,6.33,5.33,5.75,4.67,4.57,2.86,4.5,5.0,6.0,3.67,3.8,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,45,2,> 99k
+30,7.0,6.33,6.33,5.75,3.0,4.71,3.0,6.0,5.33,5.67,5.33,4.4,Male,Job seeker,France,Master (4-5 years),Business school,Industry,Couple with children,50,3,> 99k
+31,6.33,5.33,4.67,4.5,2.33,4.57,2.86,4.25,4.0,5.0,4.33,5.4,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,55,3,> 99k
+32,6.67,6.33,4.67,5.5,2.0,3.86,2.0,5.25,5.33,6.33,4.67,5.2,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,54,2,> 99k
+33,6.67,6.0,5.0,5.75,3.67,3.43,1.71,6.5,6.0,3.33,5.33,7.0,Female,Job seeker,France,Master (4-5 years),University,Information & communication,Couple with children,49,2,60-69k
+34,5.0,5.33,5.0,6.0,1.0,4.43,4.29,3.0,3.0,3.67,4.67,3.2,Female,Job seeker,France,Bachelor (3 years),University,Information & communication,Couple,55,0,80-89k
+35,6.0,5.67,6.67,4.5,6.33,4.86,4.43,7.0,7.0,6.33,4.67,7.0,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,53,2,> 99k
+36,6.33,5.33,7.0,6.25,3.67,2.57,6.14,6.75,5.33,7.0,5.33,5.6,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple,47,3,> 99k
+37,7.0,6.0,3.67,2.25,1.33,3.57,2.29,3.25,4.0,6.67,6.0,3.8,Female,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,54,3,> 99k
+38,6.67,6.33,7.0,7.0,6.33,5.43,4.43,6.75,6.0,7.0,6.0,7.0,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,49,3,> 99k
+39,7.0,6.0,6.0,5.75,4.67,4.71,3.14,6.0,5.33,5.0,5.67,6.0,Female,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,49,4,> 99k
+40,6.0,5.33,4.33,4.25,1.67,2.71,5.0,4.5,6.0,4.67,6.0,6.0,Male,Job seeker,France,Beyond master (> 5 years),Engineering school,Industry,Couple with children,46,4,> 99k
+41,7.0,4.0,4.67,6.5,1.67,3.0,4.71,3.25,5.0,6.0,4.67,5.8,Male,Employed,France,Beyond master (> 5 years),Engineering school,"Education, health & social work",Couple with children,52,3,> 99k
+42,7.0,6.0,6.0,6.25,6.0,4.14,2.14,7.0,5.0,5.67,6.0,6.0,Male,Employed,France,Beyond master (> 5 years),Engineering school,Business support services,Couple with children,47,2,> 99k
+43,6.33,6.33,5.0,6.25,6.0,2.57,3.57,6.0,6.0,4.67,4.33,4.4,Male,Employed,France,Master (4-5 years),Business school,Business support services,Couple with children,53,2,> 99k
+44,6.67,5.67,7.0,5.5,3.0,3.14,2.29,7.0,5.0,5.0,5.0,5.8,Female,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,54,2,> 99k
+45,6.33,6.33,5.33,5.0,4.67,4.14,2.71,6.5,6.33,4.33,5.67,4.8,Female,Job seeker,France,Master (4-5 years),University,Industry,Couple with children,46,3,30-39k
+46,6.67,6.0,5.67,6.5,5.33,4.71,2.43,6.75,5.33,4.67,5.67,5.8,Male,Employed,France,Master (4-5 years),University,Business support services,Single,55,4,> 99k
+47,6.67,5.33,2.67,4.5,2.33,2.71,3.71,5.5,3.67,5.33,5.0,5.2,Male,Job seeker,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,52,2,> 99k
+48,7.0,7.0,7.0,7.0,4.33,6.14,5.43,7.0,6.67,7.0,7.0,7.0,Male,Job seeker,France,Master (4-5 years),Engineering school,Other,Couple with children,48,3,60-69k
+49,4.67,4.67,4.67,4.75,1.0,3.86,1.71,4.5,3.0,6.67,4.33,5.6,Female,Employed,France,Master (4-5 years),Business school,"Education, health & social work",Couple with children,53,4,60-69k
+50,5.33,5.67,4.0,4.25,4.0,4.0,4.43,5.25,4.67,5.33,4.67,6.0,Male,Employed,France,Master (4-5 years),Business school,Business support services,Couple with children,49,3,90-99k
+51,4.67,3.67,4.33,4.25,3.67,2.14,1.86,6.5,5.33,4.67,3.33,2.8,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,52,3,70-79k
+52,6.0,6.0,6.33,6.25,5.0,4.29,4.43,5.25,5.67,6.33,5.0,5.8,Female,Employed,France,Master (4-5 years),Business school,Business support services,Couple with children,53,1,70-79k
+53,7.0,5.67,7.0,6.75,3.67,4.71,4.0,5.5,6.0,5.0,7.0,5.6,Male,Employed,France,Beyond master (> 5 years),University,"Education, health & social work",Couple with children,45,1,30-39k
+54,5.33,5.0,4.67,7.0,6.33,3.71,5.29,7.0,7.0,3.67,3.33,5.8,Female,Employed,France,Beyond master (> 5 years),University,"Education, health & social work",Couple with children,53,2,> 99k
+55,6.67,5.0,4.33,4.0,2.0,3.29,2.86,5.5,3.67,4.33,3.33,4.2,Male,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,45,2,> 99k
+56,7.0,6.33,5.0,4.5,3.0,3.0,2.71,5.0,7.0,3.33,3.33,4.2,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,50,2,> 99k
+57,6.67,5.67,7.0,6.0,4.0,3.0,2.86,5.0,4.33,4.33,3.33,3.4,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Single,52,2,> 99k
+58,6.0,5.0,4.67,5.5,3.33,3.43,2.71,3.75,4.67,3.33,4.67,2.2,Female,Employed,France,Bachelor (3 years),University,Other,Single,56,3,40-49k
+59,7.0,6.67,7.0,6.5,7.0,5.0,4.43,7.0,7.0,7.0,7.0,7.0,Male,Employed,France,Master (4-5 years),Business school,Business support services,Couple with children,53,3,> 99k
+60,6.0,4.67,5.33,5.25,2.0,2.14,2.43,5.5,3.33,5.33,4.0,5.0,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,50,4,> 99k
+61,4.67,4.67,3.33,3.5,1.0,3.71,3.43,2.5,7.0,6.0,3.0,3.8,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,52,2,> 99k
+62,7.0,5.67,6.33,4.5,6.33,2.57,1.43,7.0,5.0,4.67,5.67,3.0,Female,Employed,France,Beyond master (> 5 years),Business school,Industry,Single,53,0,> 99k
+63,5.67,6.67,6.33,5.25,4.0,5.14,6.57,5.0,5.0,5.67,6.0,4.2,Female,Job seeker,France,Beyond master (> 5 years),Other,"Trade, transport, hotels & restaurants",Couple with children,58,1,20-29k
+64,6.33,6.0,5.33,7.0,5.0,6.86,4.71,4.75,6.0,6.33,5.67,6.0,Female,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,47,3,> 99k
+65,6.0,6.0,5.33,4.75,3.67,5.57,3.57,5.75,3.67,5.0,5.0,6.0,Male,Employed,France,Beyond master (> 5 years),Engineering school,Information & communication,Couple with children,59,2,> 99k
+66,7.0,7.0,6.0,6.25,4.0,6.71,4.43,6.5,7.0,4.0,6.33,6.6,Female,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,47,3,80-89k
+67,7.0,6.67,5.33,5.5,3.67,3.29,4.29,5.75,6.0,2.33,6.0,5.2,Female,Employed,France,Master (4-5 years),Business school,Real estate,Couple with children,50,2,> 99k
+68,7.0,5.67,5.67,6.75,5.33,4.86,2.29,6.25,6.67,5.33,5.33,5.6,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,53,2,> 99k
+69,6.0,3.67,4.67,3.0,3.33,2.0,1.86,5.25,5.0,4.67,5.0,3.2,Female,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Single,47,0,> 99k
+70,7.0,6.0,5.0,2.75,3.33,3.71,2.14,5.25,6.0,6.67,4.33,5.2,Female,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Single,53,2,> 99k
+71,6.0,4.67,4.67,5.5,2.0,3.71,3.0,5.25,5.33,5.67,5.0,6.0,Male,Employed,France,Bachelor (3 years),Business school,Industry,Single,53,1,> 99k
+72,6.67,5.67,5.67,6.0,5.67,4.43,3.14,6.0,7.0,6.33,6.0,4.4,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,48,4,> 99k
+73,5.67,5.67,4.67,6.75,4.33,3.86,2.86,6.0,6.0,6.33,5.0,6.6,Male,Employed,France,Master (4-5 years),Business school,Other,Couple with children,46,3,> 99k
+74,5.0,6.33,6.0,5.25,3.33,2.86,5.14,5.5,6.0,3.67,5.33,6.6,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,50,4,40-49k
+75,6.0,5.33,4.67,6.5,1.67,6.43,2.86,5.25,6.0,6.33,5.33,7.0,Male,Job seeker,France,Master (4-5 years),Business school,Business support services,Couple with children,47,3,> 99k
+76,7.0,6.0,5.67,2.5,4.33,2.57,1.0,5.25,3.33,5.0,5.0,2.4,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,47,4,> 99k
+77,4.67,3.33,5.0,5.75,2.0,4.29,2.57,3.5,2.0,2.67,4.33,4.2,Female,Job seeker,Abroad,Master (4-5 years),University,Information & communication,Single,57,0,50-59k
+78,6.67,5.67,4.33,5.25,2.33,3.29,1.43,5.25,5.0,5.33,5.33,5.4,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,48,4,> 99k
+79,7.0,7.0,5.0,7.0,1.0,7.0,4.57,5.25,7.0,6.33,7.0,7.0,Male,Job seeker,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,54,3,> 99k
+80,7.0,5.33,4.67,7.0,2.33,4.14,2.71,5.25,6.0,5.0,6.33,5.6,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,52,2,> 99k
+81,7.0,6.0,4.67,5.0,2.0,1.86,2.57,6.0,5.0,6.0,5.0,5.4,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,50,3,> 99k
+82,6.0,6.0,4.67,4.25,2.0,4.57,3.57,4.25,4.0,3.0,3.0,4.4,Female,Employed,France,Bachelor (3 years),Other,Business support services,Couple with children,49,2,70-79k
+83,6.0,4.0,5.67,5.5,4.33,2.0,5.57,6.75,5.0,5.67,4.67,6.6,Male,Employed,France,Master (4-5 years),Business school,Information & communication,Couple with children,54,4,> 99k
+84,7.0,6.67,7.0,7.0,7.0,4.29,4.43,7.0,7.0,7.0,7.0,6.4,Male,Employed,France,Master (4-5 years),University,Finance & insurance,Couple with children,50,2,> 99k
+85,7.0,5.33,5.67,6.5,2.0,5.0,3.71,5.75,6.0,7.0,6.33,5.0,Male,Job seeker,France,Beyond master (> 5 years),Other,Other,Couple with children,48,2,> 99k
+86,5.0,4.67,4.67,5.0,2.0,2.71,4.57,4.5,4.67,5.0,4.67,5.4,Male,Employed,France,Master (4-5 years),Business school,Other,Couple,52,0,< 20k
+87,7.0,4.0,4.67,6.75,2.0,3.86,1.57,5.25,6.0,3.0,4.33,5.6,Female,Employed,France,Master (4-5 years),Engineering school,Finance & insurance,Couple with children,48,1,40-49k
+88,7.0,6.33,5.0,5.0,3.0,4.71,3.0,4.25,4.67,4.0,3.67,3.8,Female,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,51,4,30-39k
+89,7.0,6.33,4.67,6.5,3.33,7.0,2.71,4.0,4.33,6.0,6.67,6.0,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,52,2,> 99k
+90,6.0,5.67,4.67,5.0,3.67,3.14,1.43,5.0,5.0,5.67,5.0,5.8,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple,54,1,> 99k
+91,7.0,7.0,7.0,7.0,5.0,5.57,6.14,6.0,5.0,6.33,6.33,5.0,Female,Employed,France,Beyond master (> 5 years),Business school,"Education, health & social work",Couple with children,51,2,30-39k
+92,4.67,5.0,3.67,5.25,3.0,4.14,3.86,5.5,4.0,4.0,5.0,5.2,Male,Employed,France,Master (4-5 years),Business school,"Education, health & social work",Couple,51,0,< 20k
+93,6.0,6.33,6.33,5.25,5.0,4.29,1.86,5.25,5.67,6.0,5.67,4.6,Female,Employed,France,Master (4-5 years),Business school,Construction,Single,47,0,> 99k
+94,5.67,5.33,3.33,5.75,3.0,4.43,2.86,4.5,5.67,6.0,4.33,5.6,Female,Job seeker,France,Beyond master (> 5 years),Business school,Finance & insurance,Single,54,2,> 99k
+95,6.0,6.0,4.33,4.5,2.0,3.14,2.14,5.0,4.0,5.0,4.67,3.6,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,53,2,> 99k
+96,6.33,6.0,4.0,5.75,2.33,3.14,4.14,6.0,5.33,4.67,4.67,3.6,Male,Employed,France,Master (4-5 years),Engineering school,Industry,Couple with children,55,3,90-99k
+97,6.0,5.0,4.33,3.5,2.0,2.86,2.86,3.5,3.67,5.0,4.0,3.4,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,56,2,> 99k
+98,6.67,5.33,4.0,3.25,1.67,4.0,1.71,4.75,3.0,4.33,4.0,4.6,Female,Employed,France,Beyond master (> 5 years),Engineering school,Industry,Single,53,0,> 99k
+99,7.0,6.67,6.67,7.0,7.0,3.57,7.0,7.0,7.0,6.33,7.0,7.0,Male,Employed,France,Beyond master (> 5 years),Business school,"Education, health & social work",Single,52,0,> 99k
+100,5.0,4.0,3.67,3.75,1.33,3.86,2.43,3.0,4.0,3.0,4.0,4.0,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,52,2,> 99k
+101,7.0,7.0,6.0,5.75,6.0,4.0,1.57,5.75,6.0,5.33,6.0,6.0,Female,Employed,France,Master (4-5 years),Business school,Other,Couple with children,45,3,> 99k
+102,5.67,4.33,4.67,5.0,3.67,3.29,3.57,4.0,3.33,6.0,2.33,2.8,Female,Employed,France,Master (4-5 years),Business school,Other,Couple with children,52,3,20-29k
+103,6.67,6.67,6.0,6.5,5.0,3.0,1.0,6.75,5.67,5.0,6.67,6.8,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple,47,0,> 99k
+104,5.67,5.33,5.33,5.75,2.33,2.86,3.0,3.25,4.67,6.67,4.33,5.0,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,48,4,90-99k
+105,7.0,6.67,6.0,7.0,4.0,4.86,3.86,5.25,4.0,5.33,5.33,5.6,Female,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,52,3,> 99k
+106,7.0,6.33,5.33,6.75,2.0,5.43,2.43,6.0,6.0,4.67,4.0,6.8,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,56,2,> 99k
+107,4.67,4.33,5.33,4.5,3.67,4.0,1.86,4.0,5.0,4.33,3.67,5.0,Female,Employed,France,Beyond master (> 5 years),Other,"Education, health & social work",Couple with children,52,2,> 99k
+108,6.67,5.33,4.0,3.25,1.67,4.0,1.71,4.75,3.0,4.33,4.0,4.6,Female,Employed,France,Beyond master (> 5 years),Engineering school,Industry,Single,53,0,> 99k
+109,6.0,5.0,6.0,6.0,5.0,4.29,4.43,6.0,6.0,5.67,5.67,4.2,Female,Employed,France,Beyond master (> 5 years),Engineering school,Other,Single,53,0,30-39k
+110,7.0,4.33,5.0,5.75,3.67,2.71,2.71,4.25,3.67,5.67,4.33,2.8,Male,Employed,France,Beyond master (> 5 years),Engineering school,Industry,Couple with children,51,4,> 99k
+111,7.0,7.0,6.0,7.0,2.0,3.29,1.86,5.5,7.0,7.0,7.0,7.0,Male,Job seeker,France,Beyond master (> 5 years),Engineering school,Industry,Couple with children,60,1,> 99k
+112,6.33,5.67,4.0,4.25,3.33,2.57,3.14,4.25,4.0,3.33,5.0,5.4,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple,53,2,> 99k
+113,5.67,6.33,5.67,5.75,2.33,4.0,3.14,4.5,5.67,5.67,5.33,5.2,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple,52,2,> 99k
+114,6.0,4.67,4.67,3.75,2.0,3.71,2.43,5.25,6.0,3.67,2.67,2.8,Male,Employed,France,Beyond master (> 5 years),University,Industry,Couple with children,53,2,70-79k
+115,7.0,6.67,4.33,5.25,2.0,3.29,4.29,4.75,4.67,4.33,5.33,1.8,Female,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple,50,4,40-49k
+116,6.0,6.67,6.33,6.75,4.0,2.86,3.0,5.0,5.0,4.67,6.0,5.8,Female,Job seeker,France,Beyond master (> 5 years),Business school,Business support services,Couple,54,0,> 99k
+117,7.0,7.0,7.0,5.25,2.0,7.0,4.14,3.5,5.67,7.0,4.33,5.6,Female,Job seeker,France,Beyond master (> 5 years),Other,Information & communication,Single,50,3,> 99k
+118,5.0,5.67,5.67,5.5,2.0,3.86,4.71,5.75,6.0,5.67,6.0,6.0,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,49,2,> 99k
+119,6.0,5.67,5.0,6.5,5.0,3.14,2.14,5.75,6.0,3.0,4.0,5.6,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple,51,3,> 99k
+120,7.0,4.33,3.67,5.75,2.33,2.0,1.43,5.5,4.33,3.33,4.0,5.0,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,50,2,> 99k
+121,6.0,5.0,4.67,5.5,3.67,3.14,1.29,5.0,6.0,2.67,4.33,4.6,Female,Job seeker,France,Beyond master (> 5 years),Business school,Industry,Couple with children,45,3,> 99k
+122,6.0,5.33,4.67,4.0,3.0,2.29,1.57,5.5,6.0,4.67,5.0,4.8,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,48,3,80-89k
+123,6.67,5.67,6.0,6.0,5.0,3.71,2.29,5.75,6.0,5.67,6.67,6.6,Female,Employed,France,Master (4-5 years),Business school,Other,Couple with children,45,2,> 99k
+124,7.0,6.0,6.0,7.0,7.0,4.29,4.29,7.0,7.0,6.0,6.0,7.0,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,46,2,> 99k
+125,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Male,Employed,France,Master (4-5 years),Business school,"Education, health & social work",Couple with children,47,2,40-49k
+126,6.33,5.33,4.67,4.0,3.67,2.43,1.0,5.75,5.0,4.67,5.0,3.4,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,48,4,> 99k
+127,6.0,5.33,6.0,5.0,4.0,4.14,4.71,4.5,6.0,6.33,4.0,5.0,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple,50,0,30-39k
+128,7.0,7.0,4.0,4.75,2.0,3.86,1.43,4.5,4.0,3.33,5.0,5.4,Female,Employed,France,Beyond master (> 5 years),Other,Other,Couple with children,49,2,> 99k
+129,6.67,7.0,5.67,5.5,4.0,3.29,2.71,6.0,6.0,7.0,6.0,7.0,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,48,3,> 99k
+130,6.67,6.33,4.33,4.5,2.33,4.29,2.57,4.0,2.0,6.0,3.33,4.4,Female,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,54,2,90-99k
+131,6.0,5.67,6.33,6.25,6.33,3.0,1.57,7.0,7.0,6.0,7.0,7.0,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,45,3,> 99k
+132,7.0,4.0,6.33,6.0,1.67,3.43,4.43,6.25,5.0,5.67,5.33,3.4,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,51,3,> 99k
+133,7.0,6.33,6.33,6.75,3.0,6.71,5.86,4.75,6.0,5.0,6.67,7.0,Female,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Single,49,2,20-29k
+134,7.0,5.67,4.33,5.5,2.0,3.71,2.29,6.0,6.0,6.0,4.67,3.6,Female,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple,52,1,> 99k
+135,6.33,4.0,3.33,4.75,1.33,2.0,4.43,4.75,5.0,4.0,5.0,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Couple,49,0,> 99k
+136,5.67,5.67,3.33,6.0,2.67,5.86,2.71,5.5,6.0,5.67,4.0,5.0,Male,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,54,2,60-69k
+137,6.33,5.33,3.67,5.0,1.33,4.86,3.29,4.25,5.0,3.67,3.67,4.0,Male,Job seeker,France,Master (4-5 years),University,Other,Couple with children,59,1,40-49k
+138,7.0,7.0,5.0,4.0,3.0,4.71,2.29,5.75,3.67,4.67,5.33,5.0,Male,Employed,France,Master (4-5 years),University,Industry,Couple with children,52,2,70-79k
+139,6.67,6.0,6.0,7.0,5.0,5.29,4.43,7.0,6.67,7.0,6.67,7.0,Male,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,45,3,> 99k
+140,7.0,6.33,5.67,6.5,3.0,4.57,1.29,6.0,5.33,5.67,5.33,6.4,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,49,2,90-99k
+141,7.0,6.0,6.67,6.75,5.67,4.43,5.71,7.0,7.0,6.67,6.0,5.4,Female,Job seeker,France,Bachelor (3 years),Other,Finance & insurance,Couple with children,53,2,60-69k
+142,6.67,5.33,4.33,6.0,4.67,4.86,5.29,6.0,4.33,3.67,4.0,5.2,Male,Employed,France,Beyond master (> 5 years),University,Industry,Single,47,0,80-89k
+143,7.0,6.33,3.0,4.0,2.67,5.43,5.29,4.25,1.0,2.33,5.0,4.0,Male,Employed,France,Master (4-5 years),Business school,Construction,Couple with children,52,4,> 99k
+144,6.33,5.33,4.67,5.25,4.0,5.14,5.86,4.75,3.0,5.0,4.33,6.4,Female,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,47,2,80-89k
+145,6.67,5.33,6.67,6.5,4.33,4.29,3.14,5.75,5.33,4.33,3.33,5.4,Male,Employed,France,Master (4-5 years),Business school,"Education, health & social work",Couple,52,1,70-79k
+146,7.0,5.33,5.67,4.5,4.67,4.71,3.0,6.75,5.67,3.67,4.33,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,48,3,> 99k
+147,7.0,5.0,5.67,6.0,2.33,4.57,1.14,5.75,4.33,5.0,4.33,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,51,3,80-89k
+148,5.33,6.33,4.67,4.5,4.0,4.14,1.57,3.75,3.67,3.33,3.33,2.8,Female,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,51,3,> 99k
+149,7.0,6.33,6.33,6.5,5.0,2.86,1.57,5.25,5.0,6.0,4.67,6.0,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,47,3,80-89k
+150,7.0,5.67,6.33,6.0,7.0,5.86,1.86,7.0,7.0,6.33,6.0,6.8,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,51,4,> 99k
+151,5.0,5.33,4.0,5.25,3.0,3.43,2.71,5.5,5.33,5.67,5.0,6.0,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,53,2,> 99k
+152,5.33,6.0,4.33,5.25,1.67,2.71,5.57,4.75,5.0,6.67,5.67,6.8,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple,50,2,> 99k
+153,5.0,5.0,4.0,3.25,3.67,3.14,5.0,5.5,4.0,6.33,6.0,7.0,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,48,4,> 99k
+154,7.0,6.67,7.0,6.75,5.67,5.0,4.43,6.5,6.67,7.0,5.33,5.2,Male,Employed,France,Beyond master (> 5 years),Business school,"Education, health & social work",Couple with children,45,4,> 99k
+155,6.0,5.67,3.67,3.5,4.0,3.29,4.57,5.25,5.0,5.33,5.67,4.4,Female,Employed,France,Beyond master (> 5 years),Business school,"Education, health & social work",Couple with children,49,3,30-39k
+156,5.33,6.33,4.67,5.75,3.33,3.14,1.29,5.25,4.0,4.0,5.0,4.6,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,48,4,60-69k
+157,7.0,6.33,4.67,4.25,3.33,1.86,3.0,3.5,5.67,5.33,4.0,3.0,Female,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,51,1,> 99k
+158,7.0,7.0,5.33,7.0,2.0,7.0,1.43,7.0,7.0,6.0,7.0,7.0,Female,Job seeker,France,Beyond master (> 5 years),University,Information & communication,Couple,46,0,< 20k
+159,7.0,6.33,6.67,6.25,5.67,3.29,1.29,6.0,6.0,5.33,5.33,5.2,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,47,4,> 99k
+160,7.0,5.33,5.0,3.5,2.0,2.14,3.43,5.5,3.0,4.0,4.33,5.2,Male,Job seeker,France,Beyond master (> 5 years),Business school,Other,Couple with children,59,0,> 99k
+161,5.0,6.0,5.0,5.75,2.0,6.43,5.86,4.25,5.0,3.67,3.33,4.8,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple,47,2,70-79k
+162,6.33,6.33,6.0,5.25,2.33,4.86,5.43,6.0,5.0,5.0,5.33,6.0,Female,Employed,France,Beyond master (> 5 years),Business school,"Education, health & social work",Couple,55,0,90-99k
+163,6.33,6.67,5.0,7.0,1.67,3.29,3.43,5.5,4.0,4.33,3.67,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,52,4,> 99k
+164,6.0,6.67,6.33,6.0,4.67,5.43,4.14,6.25,5.67,5.0,5.67,6.0,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple,63,0,> 99k
+165,6.33,6.0,5.33,6.0,3.0,2.43,1.71,4.75,4.33,3.33,4.67,3.4,Male,Job seeker,France,Master (4-5 years),University,Other,Single,55,0,90-99k
+166,6.0,4.33,5.67,6.25,4.33,3.29,1.86,5.0,5.0,3.67,4.0,4.2,Male,Employed,France,Beyond master (> 5 years),Engineering school,Finance & insurance,Single,46,0,> 99k
+167,6.0,5.67,4.0,6.25,2.0,1.43,3.29,6.75,6.67,5.0,3.33,5.8,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,48,2,80-89k
+168,6.0,6.33,4.0,5.25,3.0,5.14,4.14,4.75,4.67,5.33,3.67,2.4,Female,Employed,France,Master (4-5 years),Business school,"Education, health & social work",Couple with children,47,2,30-39k
+169,5.0,5.67,5.33,5.75,4.33,2.71,1.71,5.5,5.67,4.67,5.67,6.6,Male,Employed,France,Master (4-5 years),Business school,Information & communication,Couple with children,45,1,> 99k
+170,5.33,5.33,5.33,6.25,2.0,4.57,2.71,5.0,5.0,5.33,5.0,6.8,Female,Job seeker,France,Master (4-5 years),Business school,Other,Couple with children,45,3,80-89k
+171,5.0,4.0,5.0,5.25,1.0,3.14,4.29,2.25,5.67,4.33,2.67,4.2,Female,Job seeker,France,Beyond master (> 5 years),Other,Other,Single,59,0,80-89k
+172,6.0,6.0,6.0,6.25,4.67,5.43,4.14,5.25,6.0,6.33,5.33,6.0,Female,Employed,France,Master (4-5 years),Other,Information & communication,Couple with children,56,3,60-69k
+173,7.0,7.0,5.0,4.75,2.0,3.71,1.57,5.75,3.67,6.33,5.0,1.6,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,52,3,> 99k
+174,7.0,6.0,6.33,6.75,5.33,6.86,4.86,5.25,5.0,5.67,5.67,5.8,Female,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,50,4,70-79k
+175,6.0,5.0,4.0,5.25,3.0,2.43,1.0,5.0,3.33,4.33,3.33,4.2,Male,Employed,France,Beyond master (> 5 years),Business school,"Education, health & social work",Couple,46,0,80-89k
+176,5.33,4.67,5.0,6.25,2.67,3.0,2.0,4.0,3.0,3.67,4.0,2.0,Male,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Couple with children,53,2,60-69k
+177,7.0,6.33,3.67,5.75,3.0,2.57,3.57,5.25,5.67,3.33,7.0,6.4,Female,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,54,0,> 99k
+178,6.0,5.33,3.67,5.0,2.67,4.43,2.29,3.75,4.67,4.67,3.33,7.0,Female,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Single,47,0,> 99k
+179,6.0,6.0,4.67,4.75,2.67,2.57,1.29,4.5,3.67,3.0,4.0,1.6,Male,Employed,France,Master (4-5 years),Business school,Information & communication,Couple with children,52,2,> 99k
+180,7.0,6.67,7.0,7.0,7.0,4.29,5.14,7.0,6.33,7.0,7.0,7.0,Male,Job seeker,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple,63,0,> 99k
+181,6.67,7.0,5.0,6.5,3.67,4.29,2.29,5.25,5.0,7.0,5.67,5.4,Male,Employed,France,Master (4-5 years),Business school,Other,Couple with children,53,3,> 99k
+182,6.0,4.33,5.67,5.25,4.67,3.29,1.86,5.0,6.0,3.67,4.67,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,48,3,> 99k
+183,7.0,7.0,6.33,5.25,4.33,3.43,2.71,6.5,7.0,6.33,6.67,6.4,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,51,3,> 99k
+184,6.33,3.67,4.0,3.75,1.67,3.71,1.0,4.75,4.0,4.0,5.33,4.4,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,54,2,> 99k
+185,5.67,5.67,4.67,5.5,3.0,4.0,3.29,4.0,5.33,5.0,5.33,4.6,Female,Employed,France,Beyond master (> 5 years),Business school,Construction,Couple with children,52,2,> 99k
+186,5.67,7.0,4.33,6.5,2.0,6.57,2.71,5.5,4.0,5.0,5.67,7.0,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,53,2,> 99k
+187,5.67,5.67,5.33,5.75,5.0,4.29,2.29,5.75,7.0,4.0,4.67,4.8,Male,Job seeker,France,Beyond master (> 5 years),Business school,Industry,Couple,52,0,> 99k
+188,6.33,4.0,5.33,4.25,3.67,4.0,4.29,5.0,6.33,6.33,4.67,3.4,Male,Employed,France,Beyond master (> 5 years),Engineering school,Other,Couple with children,52,2,> 99k
+189,5.67,5.67,4.0,5.75,2.0,5.43,2.71,5.5,4.33,5.33,3.67,5.4,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,54,3,> 99k
+190,5.67,5.0,4.67,5.75,5.0,3.43,2.29,5.0,4.67,5.0,4.33,5.4,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,48,2,> 99k
+191,6.0,5.33,4.0,5.25,1.0,3.14,2.86,3.5,6.0,4.33,2.33,4.2,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,57,2,90-99k
+192,7.0,7.0,5.0,3.25,4.33,3.29,1.0,4.25,5.0,5.0,4.33,4.4,Male,Employed,France,Master (4-5 years),Business school,Other,Single,49,0,> 99k
+193,7.0,6.33,7.0,7.0,1.0,5.29,4.14,5.0,7.0,7.0,6.0,4.6,Female,Employed,France,Master (4-5 years),University,Other,Single,57,0,70-79k
+194,7.0,6.0,6.33,6.25,2.67,5.0,1.86,6.5,5.67,6.33,6.33,7.0,Female,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,46,1,90-99k
+195,5.0,5.33,3.67,6.0,3.0,3.0,2.57,5.0,4.33,4.33,5.33,5.4,Female,Employed,France,Master (4-5 years),Business school,Business support services,Couple with children,50,1,> 99k
+196,5.67,5.33,4.67,4.0,3.33,4.29,3.0,5.25,4.33,4.33,3.67,3.2,Male,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Couple with children,49,4,> 99k
+197,5.67,4.33,4.67,5.75,1.0,3.71,2.86,4.5,4.67,5.33,4.67,5.4,Male,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Single,53,0,> 99k
+198,6.0,4.0,3.33,6.25,2.0,3.43,3.29,5.5,6.0,5.33,4.33,6.0,Female,Employed,France,Master (4-5 years),Business school,Construction,Couple with children,52,3,90-99k
+199,7.0,7.0,4.33,4.5,3.0,1.86,1.71,3.5,4.0,1.67,3.33,3.6,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,49,2,60-69k
+200,6.0,5.33,4.33,4.75,2.0,3.71,2.29,3.25,4.67,5.0,3.67,3.0,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Single,50,4,> 99k
+201,5.33,5.33,4.33,5.25,1.33,3.29,4.14,4.0,2.0,6.0,4.67,6.2,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple,52,3,> 99k
+202,6.0,6.67,6.33,6.5,5.0,4.71,4.71,6.0,6.33,5.33,5.67,6.0,Female,Employed,France,Master (4-5 years),Business school,Business support services,Couple with children,46,3,30-39k
+203,5.67,5.0,7.0,6.25,5.33,4.43,1.43,5.25,5.0,5.33,5.67,7.0,Male,Employed,France,Beyond master (> 5 years),Engineering school,Industry,Couple with children,54,2,> 99k
+204,7.0,7.0,5.67,5.5,5.0,4.71,3.29,5.25,5.0,5.0,5.67,1.6,Male,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Single,55,0,50-59k
+205,7.0,5.67,5.0,5.75,4.33,3.29,2.86,6.0,3.0,3.33,4.33,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,47,3,> 99k
+206,6.67,6.33,6.33,7.0,6.67,4.71,4.57,7.0,6.67,6.0,6.0,6.8,Male,Employed,Abroad,Beyond master (> 5 years),Business school,Business support services,Couple with children,46,2,> 99k
+207,6.0,6.0,6.0,3.75,3.0,2.29,2.71,5.25,4.33,5.67,4.33,2.8,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,48,4,> 99k
+208,5.33,6.0,7.0,5.25,5.33,3.0,2.71,4.25,5.33,7.0,4.33,6.0,Male,Employed,France,Master (4-5 years),Business school,Other,Couple with children,47,3,80-89k
+209,7.0,5.33,5.0,5.0,3.67,4.86,3.57,6.0,6.0,4.67,4.67,4.0,Female,Employed,France,Master (4-5 years),Business school,Other,Couple with children,49,3,> 99k
+210,6.33,5.33,4.33,3.75,4.0,3.71,1.43,5.0,4.33,4.67,4.33,5.2,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,45,2,> 99k
+211,7.0,5.0,4.0,4.75,4.0,1.71,1.86,4.25,3.67,4.0,4.67,5.4,Female,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,45,2,> 99k
+212,7.0,7.0,5.67,7.0,5.0,3.57,2.71,6.75,7.0,4.67,6.33,7.0,Male,Employed,France,Beyond master (> 5 years),Engineering school,Industry,Couple with children,56,1,> 99k
+213,7.0,6.67,5.67,5.25,4.0,4.0,2.43,5.0,4.0,5.67,5.67,6.4,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple,56,0,> 99k
+214,7.0,7.0,5.33,7.0,1.0,6.14,1.0,4.75,7.0,5.33,6.67,5.6,Female,Employed,France,Beyond master (> 5 years),Business school,Industry,Single,52,1,90-99k
+215,5.33,4.33,4.33,5.0,1.33,2.57,2.0,4.5,2.67,5.0,4.33,4.8,Male,Job seeker,France,Master (4-5 years),Business school,Industry,Couple with children,52,3,> 99k
+216,6.0,5.33,5.0,5.75,3.0,4.71,4.86,4.25,5.0,4.67,5.0,3.4,Male,Job seeker,France,Beyond master (> 5 years),Engineering school,"Education, health & social work",Single,57,0,40-49k
+217,6.0,6.0,6.67,6.25,5.0,6.29,4.43,6.5,6.0,6.67,6.0,6.6,Male,Employed,France,Master (4-5 years),Business school,Business support services,Couple with children,53,4,> 99k
+218,4.0,5.0,3.67,3.0,2.0,4.0,2.0,2.25,2.33,5.0,2.67,4.0,Female,Employed,France,Beyond master (> 5 years),Business school,Industry,Single,53,1,> 99k
+219,7.0,6.0,6.0,5.5,4.0,3.71,2.29,5.75,6.0,4.0,5.0,4.2,Female,Job seeker,France,Master (4-5 years),Business school,Other,Single,45,1,50-59k
+220,7.0,7.0,6.33,6.25,2.0,6.14,3.0,7.0,6.0,4.67,6.67,3.8,Female,Job seeker,France,Master (4-5 years),Other,Real estate,Single,51,0,40-49k
+221,7.0,5.33,6.33,7.0,5.67,2.57,2.29,7.0,7.0,5.0,5.33,6.8,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Single,46,0,> 99k
+222,7.0,6.0,6.33,5.5,6.33,1.86,1.0,7.0,7.0,4.67,5.0,1.8,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Single,48,0,> 99k
+223,6.0,6.0,6.0,4.5,6.0,4.14,6.43,6.25,6.0,4.0,5.33,5.6,Male,Employed,France,Bachelor (3 years),University,Finance & insurance,Couple with children,51,2,50-59k
+224,7.0,7.0,7.0,7.0,1.0,6.14,3.86,7.0,7.0,7.0,7.0,7.0,Male,Job seeker,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple,50,0,> 99k
+225,7.0,3.67,5.67,5.0,2.67,2.86,3.71,6.5,5.33,6.0,5.67,6.0,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,55,3,> 99k
+226,7.0,7.0,6.33,6.25,4.33,5.0,5.14,6.0,6.0,6.33,6.0,5.6,Female,Job seeker,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,45,1,> 99k
+227,6.0,4.67,5.0,3.75,2.0,4.43,3.29,4.0,3.0,4.0,3.67,4.0,Male,Employed,France,Master (4-5 years),Engineering school,"Trade, transport, hotels & restaurants",Single,56,2,60-69k
+228,5.67,5.0,3.67,3.0,3.33,3.0,1.57,4.25,4.0,4.67,4.0,3.6,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,51,3,> 99k
+229,7.0,6.0,6.67,7.0,4.67,2.71,5.43,6.75,5.67,5.0,6.33,7.0,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,45,3,> 99k
+230,7.0,6.0,5.33,6.25,5.67,2.71,2.71,4.75,5.67,6.33,5.33,6.4,Male,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,47,4,> 99k
+231,6.33,6.0,5.33,5.5,5.67,4.29,1.71,6.0,6.0,4.0,6.0,6.0,Female,Employed,France,Beyond master (> 5 years),Other,Other,Couple,45,0,80-89k
+232,7.0,3.33,5.0,6.25,2.33,1.29,1.29,3.75,4.0,2.67,4.0,2.6,Female,Employed,France,Master (4-5 years),Business school,Other,Couple with children,49,2,50-59k
+233,6.33,4.67,5.33,5.25,1.67,5.29,5.0,2.5,4.67,5.67,4.33,5.6,Male,Job seeker,France,Beyond master (> 5 years),Engineering school,Other,Couple,51,0,70-79k
+234,7.0,6.67,4.67,5.5,5.0,5.29,2.0,6.0,6.0,5.67,5.0,5.8,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,51,3,> 99k
+235,6.33,6.33,5.0,5.75,5.0,4.86,2.29,6.0,5.67,6.0,5.67,6.0,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,46,2,> 99k
+236,6.33,5.67,4.67,4.0,2.67,2.0,2.86,4.5,4.67,5.33,3.33,4.4,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,49,3,> 99k
+237,6.0,5.67,5.0,6.25,4.33,3.71,2.14,4.75,4.67,4.0,4.67,6.6,Female,Employed,France,Master (4-5 years),Business school,Other,Couple with children,51,2,> 99k
+238,6.0,5.0,5.0,5.75,5.67,2.71,2.57,6.0,6.0,4.33,5.33,6.4,Male,Employed,France,Beyond master (> 5 years),Business school,Real estate,Couple,50,2,> 99k
+239,6.0,5.67,5.33,3.75,4.33,3.14,2.0,4.5,4.67,5.67,4.33,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,48,2,> 99k
+240,5.67,4.67,4.67,3.5,4.0,3.29,2.71,3.5,5.0,4.33,4.33,3.6,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,45,4,> 99k
+241,7.0,6.33,6.0,6.0,6.33,6.57,5.71,7.0,7.0,7.0,7.0,6.4,Male,Employed,France,Master (4-5 years),Business school,Business support services,Couple,54,0,50-59k
+242,6.67,6.33,4.0,5.75,3.0,3.14,2.43,4.5,2.67,5.0,3.33,4.4,Male,Employed,France,Master (4-5 years),Business school,Construction,Couple with children,49,3,80-89k
+243,6.0,6.0,6.33,5.75,4.0,4.57,4.14,6.25,5.33,6.0,5.67,6.6,Male,Employed,France,Master (4-5 years),Business school,Other,Couple with children,45,2,> 99k
+244,7.0,5.67,6.33,6.5,5.67,5.71,4.71,6.75,6.0,6.33,5.67,5.6,Female,Job seeker,France,Beyond master (> 5 years),Business school,Business support services,Single,49,0,90-99k
+245,7.0,7.0,6.33,7.0,1.67,5.57,5.71,7.0,5.67,7.0,7.0,7.0,Male,Employed,France,Master (4-5 years),Other,Business support services,Single,64,0,50-59k
+246,7.0,6.67,6.0,6.75,4.67,6.57,4.0,6.5,6.0,5.33,5.67,6.0,Female,Job seeker,France,Beyond master (> 5 years),University,"Education, health & social work",Couple with children,62,1,> 99k
+247,6.0,5.0,4.0,4.75,3.33,5.71,2.71,5.0,4.33,5.0,5.67,5.8,Female,Employed,France,Beyond master (> 5 years),University,Other,Couple with children,49,3,60-69k
+248,5.33,5.33,4.67,6.25,6.0,3.43,5.29,4.75,5.33,5.0,3.33,3.2,Male,Employed,France,Beyond master (> 5 years),Engineering school,Industry,Couple with children,57,4,70-79k
+249,6.67,5.33,6.0,4.75,2.0,2.43,2.14,6.0,5.33,6.67,4.33,6.4,Female,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,45,2,> 99k
+250,6.67,5.0,5.33,6.5,3.33,4.0,3.0,5.5,5.0,5.33,4.67,6.2,Male,Job seeker,France,Beyond master (> 5 years),Engineering school,Industry,Couple with children,55,2,> 99k
+251,6.0,5.33,3.67,3.5,3.0,4.14,2.29,3.75,5.67,4.0,4.67,3.0,Female,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,48,4,> 99k
+252,7.0,6.0,5.0,6.0,4.0,4.43,2.71,4.0,4.33,4.33,4.33,2.6,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Single,52,2,50-59k
+253,6.0,6.0,4.0,3.5,2.0,3.0,1.86,4.5,2.0,1.67,4.33,2.2,Female,Employed,France,Master (4-5 years),Business school,Other,Single,52,0,60-69k
+254,6.33,6.33,6.0,5.25,4.0,6.14,1.43,6.5,5.33,3.33,3.0,3.6,Female,Employed,France,Bachelor (3 years),University,Information & communication,Single,46,0,50-59k
+255,6.67,6.33,5.33,6.0,5.67,4.86,2.71,7.0,6.0,5.33,6.0,6.8,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,50,3,> 99k
+256,7.0,7.0,6.33,5.75,4.0,6.43,3.71,5.25,5.0,5.0,5.0,4.0,Female,Employed,France,Master (4-5 years),University,Other,Single,61,0,40-49k
+257,7.0,6.33,6.33,3.25,4.0,2.57,4.29,6.75,6.33,6.33,4.67,5.6,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,55,3,> 99k
+258,7.0,6.0,7.0,7.0,5.33,6.43,5.86,6.25,6.33,6.33,6.33,5.6,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,51,3,> 99k
+259,7.0,5.33,4.67,3.75,2.33,2.57,1.71,4.0,5.33,5.0,4.0,3.2,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple,54,2,> 99k
+260,7.0,7.0,7.0,7.0,1.67,5.43,3.29,6.25,6.33,4.67,4.67,5.2,Male,Job seeker,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple,49,0,> 99k
+261,6.0,5.67,4.0,3.5,2.67,2.71,1.86,3.75,3.0,6.0,4.0,2.8,Male,Employed,France,Master (4-5 years),Business school,Information & communication,Couple with children,54,2,> 99k
+262,4.67,5.33,3.33,3.5,1.0,2.43,3.0,4.5,3.33,3.33,3.67,5.6,Male,Job seeker,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,54,2,> 99k
+263,6.67,5.33,4.33,6.75,3.0,3.14,1.71,6.0,7.0,4.67,5.0,4.2,Male,Employed,France,Beyond master (> 5 years),Business school,"Education, health & social work",Couple with children,56,3,50-59k
+264,6.67,6.33,3.33,4.5,1.33,4.57,1.29,5.5,6.0,5.0,3.67,4.2,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,53,3,> 99k
+265,7.0,6.33,6.0,6.5,4.33,4.86,1.0,6.25,5.33,6.0,5.33,4.4,Female,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,47,3,> 99k
+266,7.0,6.67,6.67,6.0,5.0,5.0,5.0,7.0,6.67,7.0,6.0,6.6,Female,Employed,France,Master (4-5 years),Engineering school,Business support services,Couple,51,0,40-49k
+267,7.0,5.67,6.0,5.5,4.0,2.71,2.86,4.75,4.0,7.0,6.0,6.4,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,53,4,> 99k
+268,7.0,5.33,4.33,6.0,3.67,2.0,1.43,5.5,5.0,3.67,4.0,1.8,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,53,2,> 99k
+269,7.0,5.33,3.0,4.0,2.67,3.71,1.0,6.0,4.33,5.33,5.33,2.8,Female,Employed,France,Bachelor (3 years),Other,Information & communication,Couple with children,55,2,30-39k
+270,6.0,6.0,4.67,5.75,4.67,2.43,2.86,5.5,4.67,5.33,4.67,2.6,Male,Employed,France,Beyond master (> 5 years),Business school,Construction,Couple with children,46,2,> 99k
+271,7.0,6.33,5.67,4.75,4.67,2.57,1.57,3.5,2.67,4.33,4.0,1.4,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,48,2,> 99k
+272,7.0,6.33,5.33,5.75,1.67,3.0,3.29,4.25,5.0,4.67,7.0,7.0,Male,Employed,France,Master (4-5 years),Business school,Information & communication,Couple with children,48,3,> 99k
+273,6.0,6.33,5.0,5.75,4.33,4.29,5.57,5.0,6.33,5.33,6.0,4.4,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,45,3,20-29k
+274,7.0,5.67,5.67,5.75,4.0,6.14,4.57,6.0,6.0,5.33,5.33,5.8,Female,Job seeker,France,Beyond master (> 5 years),Business school,Information & communication,Couple with children,51,3,> 99k
+275,6.0,6.0,4.0,4.5,6.33,3.43,2.14,6.25,7.0,7.0,6.0,5.0,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,65,4,> 99k
+276,7.0,7.0,6.0,7.0,4.0,5.71,2.14,6.75,7.0,6.0,7.0,6.6,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple,50,0,50-59k
+277,6.67,4.67,6.33,7.0,5.67,2.57,4.43,5.75,4.0,6.67,6.33,6.8,Male,Employed,France,Beyond master (> 5 years),Engineering school,Business support services,Couple with children,50,4,> 99k
+278,6.67,6.33,5.67,5.25,2.0,2.29,3.71,5.5,5.33,5.67,4.0,3.6,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple,53,2,> 99k
+279,7.0,5.67,6.0,6.25,4.67,5.29,3.14,5.75,6.0,4.33,5.67,5.4,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple,52,0,> 99k
+280,5.67,6.67,5.67,6.0,2.33,5.86,4.86,7.0,3.67,7.0,6.33,5.8,Male,Job seeker,France,Beyond master (> 5 years),Business school,Information & communication,Single,46,2,50-59k
+281,7.0,6.33,5.33,6.75,3.33,5.43,1.57,6.0,5.0,3.33,7.0,6.8,Male,Job seeker,France,Master (4-5 years),Business school,Business support services,Couple with children,50,2,90-99k
+282,7.0,5.67,5.33,5.0,2.0,3.29,2.14,5.5,2.67,6.0,5.33,4.6,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,54,3,> 99k
+283,6.0,5.67,6.67,5.75,5.0,3.29,1.86,5.25,4.33,5.33,4.67,3.8,Male,Employed,France,Master (4-5 years),Business school,Other,Couple with children,55,2,> 99k
+284,6.33,6.0,6.0,5.25,4.67,6.43,2.86,6.0,6.0,6.0,5.0,5.6,Female,Job seeker,France,Bachelor (3 years),Business school,Finance & insurance,Single,50,0,> 99k
+285,6.33,5.67,5.0,5.5,4.33,3.14,1.71,6.5,5.67,5.67,5.0,4.6,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,50,3,> 99k
+286,6.0,7.0,4.33,6.25,3.67,5.14,1.71,6.25,6.0,6.67,4.67,6.4,Male,Job seeker,France,Beyond master (> 5 years),Business school,Other,Couple,50,1,> 99k
+287,7.0,7.0,5.33,5.25,2.0,3.71,1.71,6.0,6.0,5.0,3.0,2.4,Male,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,52,1,> 99k
+288,7.0,6.0,7.0,7.0,3.33,7.0,1.0,7.0,7.0,6.33,7.0,7.0,Male,Job seeker,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple,54,0,> 99k
+289,6.0,6.67,5.0,4.75,2.0,1.43,1.0,3.5,3.33,6.0,3.0,3.4,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,54,2,> 99k
+290,5.0,4.33,3.0,3.5,3.0,4.57,3.43,6.25,6.0,4.0,4.33,4.8,Female,Job seeker,Abroad,Master (4-5 years),Business school,Finance & insurance,Single,47,0,> 99k
+291,6.67,6.0,4.33,3.25,2.33,5.71,1.0,6.0,4.33,2.67,4.67,2.8,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,46,4,> 99k
+292,6.0,4.33,5.0,5.75,5.67,4.0,3.43,5.5,6.0,6.0,5.0,5.0,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,50,3,> 99k
+293,5.67,6.0,4.33,3.75,1.67,4.14,1.0,3.5,6.67,3.67,3.33,4.6,Female,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Single,52,2,> 99k
+294,7.0,5.0,3.67,4.75,1.33,2.29,1.0,5.25,5.0,2.33,4.33,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,47,2,> 99k
+295,6.33,6.33,7.0,6.75,5.33,4.71,4.29,7.0,5.33,7.0,6.67,6.0,Female,Job seeker,France,Beyond master (> 5 years),University,Information & communication,Single,49,0,< 20k
+296,6.0,5.67,5.67,3.5,6.33,2.0,4.43,6.25,6.0,5.0,6.33,2.8,Male,Employed,France,Beyond master (> 5 years),Business school,Real estate,Couple with children,50,2,> 99k
+297,5.33,5.33,4.0,3.5,2.33,1.71,1.71,6.0,4.33,4.67,3.33,2.6,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple,53,4,> 99k
+298,7.0,4.33,5.33,5.5,3.0,4.43,2.57,4.25,4.67,5.67,5.0,6.4,Female,Employed,France,Master (4-5 years),Business school,Other,Couple with children,47,2,90-99k
+299,4.67,4.67,6.0,6.0,4.67,2.57,2.0,4.5,3.67,3.0,4.33,3.6,Female,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple,46,0,> 99k
+300,6.0,5.33,4.0,3.5,2.0,2.71,3.29,3.75,2.0,2.33,2.67,1.2,Male,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Single,60,0,> 99k
+301,4.33,6.0,4.0,5.75,2.67,2.14,1.0,4.5,5.33,3.67,3.0,5.4,Female,Employed,France,Beyond master (> 5 years),Other,"Education, health & social work",Couple with children,51,2,> 99k
+302,6.0,5.67,5.33,6.25,4.0,4.57,2.71,4.75,6.0,3.67,5.33,6.6,Female,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,52,4,70-79k
+303,6.33,5.33,4.67,5.75,5.0,2.0,3.43,6.75,6.67,5.0,7.0,5.0,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,53,3,> 99k
+304,6.0,5.67,4.67,3.5,3.0,5.71,3.71,6.75,5.33,6.67,5.67,4.0,Male,Job seeker,France,Master (4-5 years),Other,Industry,Couple with children,52,2,> 99k
+305,5.67,6.33,6.33,5.75,4.0,2.71,4.14,4.25,4.0,6.33,5.67,6.4,Female,Job seeker,France,Master (4-5 years),Business school,Business support services,Single,52,2,> 99k
+306,6.33,5.67,5.33,6.5,5.0,3.86,2.43,5.75,5.67,6.33,4.67,5.2,Female,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,45,2,> 99k
+307,7.0,5.67,7.0,7.0,5.67,3.86,3.14,7.0,7.0,5.33,3.67,7.0,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,49,3,> 99k
+308,7.0,6.33,5.67,7.0,5.0,6.71,5.43,5.0,5.0,3.33,4.0,4.2,Female,Employed,France,Beyond master (> 5 years),University,Other,Couple with children,51,3,70-79k
+309,6.67,5.33,4.67,6.25,4.33,3.29,4.71,5.75,4.33,6.0,6.67,6.8,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Single,50,2,> 99k
+310,7.0,7.0,6.33,5.5,4.67,3.43,3.0,7.0,6.33,5.0,5.0,5.8,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Single,49,2,> 99k
+311,5.33,5.0,4.33,5.5,3.67,4.14,1.29,4.75,5.0,3.33,4.67,5.0,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple,53,0,> 99k
+312,6.67,6.33,4.33,5.0,1.0,5.71,3.86,2.25,1.0,6.0,2.0,6.8,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,51,4,50-59k
+313,7.0,4.67,4.33,5.75,2.33,2.14,3.29,4.5,6.0,4.33,4.33,7.0,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,45,3,> 99k
+314,6.0,4.33,6.67,4.5,3.33,1.57,1.0,6.25,3.33,6.0,5.67,6.4,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,51,3,> 99k
+315,7.0,6.67,7.0,5.75,5.0,3.57,4.0,6.5,5.33,6.67,6.0,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,50,2,> 99k
+316,6.0,4.33,4.0,4.0,3.0,3.43,4.86,4.5,7.0,4.0,5.67,4.6,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple,53,0,60-69k
+317,7.0,5.33,4.67,4.5,3.0,6.0,1.57,6.0,5.0,6.0,5.0,5.8,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,46,3,> 99k
+318,7.0,6.33,4.67,5.75,3.0,6.14,1.57,6.0,5.0,4.33,7.0,6.4,Female,Employed,France,Master (4-5 years),Other,Information & communication,Couple with children,46,2,40-49k
+319,6.67,6.33,5.67,5.75,4.67,4.29,4.0,6.0,6.0,6.0,4.33,2.8,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,45,4,> 99k
+320,4.33,3.67,3.33,3.5,1.0,2.29,1.0,3.5,5.0,1.0,1.33,2.4,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Single,48,0,> 99k
+321,7.0,3.67,5.33,5.75,4.67,2.86,3.86,6.0,6.0,4.0,4.67,6.4,Male,Employed,France,Master (4-5 years),Business school,Other,Couple with children,47,3,90-99k
+322,6.33,5.67,4.67,6.5,3.67,4.71,1.29,6.5,6.67,7.0,6.67,6.6,Male,Employed,France,Master (4-5 years),Business school,Information & communication,Couple with children,53,3,> 99k
+323,7.0,6.33,4.33,6.5,2.33,5.14,3.57,5.5,7.0,3.0,6.0,7.0,Male,Employed,France,Master (4-5 years),Business school,Other,Single,51,0,60-69k
+324,6.0,5.33,5.67,5.5,3.0,2.43,1.71,3.75,5.0,5.33,5.0,5.8,Male,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,52,1,> 99k
+325,5.0,6.0,7.0,6.75,6.67,7.0,4.43,7.0,6.67,5.67,6.0,6.6,Male,Employed,France,Master (4-5 years),Business school,Business support services,Couple with children,45,2,> 99k
+326,5.33,6.0,4.33,3.0,4.0,4.29,3.29,4.75,4.33,4.0,4.33,4.6,Male,Employed,France,Beyond master (> 5 years),Engineering school,Finance & insurance,Couple with children,52,2,90-99k
+327,5.67,4.67,5.67,5.0,4.67,2.14,2.43,5.0,5.33,3.67,5.67,4.6,Male,Employed,France,Beyond master (> 5 years),Business school,"Education, health & social work",Couple with children,54,2,70-79k
+328,7.0,4.67,6.33,5.0,4.33,3.0,2.86,4.25,5.33,5.0,4.0,2.6,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,46,3,> 99k
+329,6.0,5.33,5.33,6.0,4.0,4.86,4.57,6.0,5.67,7.0,5.67,5.4,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,49,2,> 99k
+330,6.0,5.67,4.0,4.25,2.33,3.57,1.71,4.75,4.33,4.33,4.0,5.4,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,47,3,> 99k
+331,7.0,7.0,7.0,5.25,6.0,4.43,1.57,6.75,7.0,6.0,7.0,7.0,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,49,2,> 99k
+332,6.0,4.33,4.33,5.5,4.33,2.71,2.29,4.75,7.0,4.33,3.33,3.2,Male,Employed,France,Master (4-5 years),Business school,Other,Couple with children,50,2,> 99k
+333,6.0,6.33,6.67,7.0,5.0,3.14,1.0,6.75,6.67,4.67,7.0,7.0,Male,Job seeker,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,50,4,> 99k
+334,7.0,3.33,3.67,2.0,2.0,3.0,1.86,1.5,2.0,2.33,2.33,1.4,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Single,47,3,> 99k
+335,6.0,5.0,5.67,5.0,3.0,4.29,1.43,4.5,2.67,6.0,5.67,2.6,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,55,3,> 99k
+336,6.0,6.67,5.33,6.25,4.33,4.29,4.29,5.5,5.33,5.33,5.33,4.2,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple,52,0,> 99k
+337,6.0,5.67,4.67,5.5,3.0,5.14,1.0,5.25,6.0,2.33,3.0,3.4,Female,Job seeker,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple,45,0,> 99k
+338,7.0,7.0,7.0,6.5,6.0,4.14,1.0,7.0,7.0,5.67,6.33,6.2,Female,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,48,4,> 99k
+339,5.0,3.67,4.0,3.0,2.0,2.57,1.57,3.75,5.0,5.67,3.67,5.8,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,49,2,> 99k
+340,6.67,5.33,4.0,4.25,3.33,3.14,3.57,7.0,6.33,4.33,3.33,2.6,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,50,3,> 99k
+341,7.0,7.0,5.33,6.0,2.33,1.86,1.43,6.75,6.0,4.33,6.0,4.2,Male,Employed,France,Master (4-5 years),Business school,Real estate,Couple with children,51,1,> 99k
+342,6.0,5.67,5.67,5.5,3.0,4.57,4.0,4.5,6.0,5.67,4.67,4.4,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,47,4,20-29k
+343,6.0,6.67,4.67,5.75,3.0,4.0,2.71,5.0,6.0,4.33,4.0,1.6,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,54,2,> 99k
+344,5.67,6.33,4.67,5.75,2.0,5.71,3.14,6.25,6.0,4.67,5.0,6.0,Male,Employed,France,Master (4-5 years),Business school,Real estate,Couple with children,48,3,> 99k
+345,6.33,5.0,5.0,4.0,1.0,5.57,4.57,3.0,2.67,5.0,4.33,3.6,Female,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,55,3,40-49k
+346,6.33,5.33,4.67,6.0,4.33,2.57,3.57,5.75,5.33,4.67,5.67,6.0,Male,Employed,France,Master (4-5 years),Business school,"Education, health & social work",Couple with children,49,3,> 99k
+347,7.0,5.33,4.33,4.75,4.67,2.57,2.43,6.5,6.0,2.33,5.0,5.2,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,47,4,> 99k
+348,6.0,6.0,4.67,5.0,2.67,6.29,2.86,5.25,4.33,4.67,4.67,4.6,Male,Job seeker,Abroad,Beyond master (> 5 years),Engineering school,Business support services,Couple with children,53,3,40-49k
+349,5.33,6.0,4.33,3.25,3.67,3.14,1.0,3.0,4.33,5.0,4.33,2.8,Female,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,51,2,80-89k
+350,7.0,7.0,6.0,4.5,2.33,3.0,2.14,5.5,6.0,6.33,6.0,5.8,Female,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,52,4,> 99k
+351,7.0,5.33,6.67,5.0,5.33,4.29,3.86,5.75,4.67,6.33,5.0,6.6,Male,Job seeker,France,Master (4-5 years),Business school,Business support services,Couple,46,0,> 99k
+352,4.67,5.33,5.0,5.75,3.33,2.43,3.71,4.5,5.33,5.67,5.33,6.4,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,53,2,> 99k
+353,6.0,4.67,5.33,6.25,4.0,5.57,4.0,4.5,4.0,5.67,2.67,2.6,Male,Employed,France,Master (4-5 years),University,Industry,Couple,45,0,60-69k
+354,5.0,6.33,3.0,4.75,1.0,3.57,3.57,5.0,4.67,4.33,5.33,6.8,Male,Job seeker,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,54,2,> 99k
+355,6.67,6.67,4.33,3.75,3.0,3.29,1.57,4.75,3.0,2.67,3.0,2.4,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,55,3,> 99k
+356,7.0,4.67,5.0,5.25,2.0,1.71,1.71,5.25,6.0,3.67,3.67,1.8,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,53,2,> 99k
+357,6.0,5.67,5.33,6.0,3.33,4.86,3.71,5.25,6.0,6.0,6.0,6.0,Male,Employed,France,Beyond master (> 5 years),University,Other,Single,45,1,40-49k
+358,6.0,6.0,5.33,4.0,2.67,5.71,4.71,4.75,4.0,4.67,6.0,6.8,Female,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,51,2,60-69k
+359,6.67,5.0,6.33,5.5,4.67,4.29,3.86,6.0,4.67,4.33,5.67,6.4,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,51,2,> 99k
+360,6.33,6.0,5.67,4.75,1.67,4.86,5.86,5.25,6.0,5.0,5.33,4.2,Female,Employed,France,Beyond master (> 5 years),University,Other,Single,55,1,40-49k
+361,6.0,4.33,5.67,3.5,1.0,2.29,3.29,4.0,3.0,5.0,4.0,3.2,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,47,2,> 99k
+362,7.0,5.0,5.33,5.5,5.0,1.57,1.0,4.75,3.67,5.67,5.0,3.6,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,51,2,> 99k
+363,5.0,6.33,4.67,4.5,4.0,5.14,1.43,6.0,7.0,3.0,5.33,4.0,Male,Employed,France,Beyond master (> 5 years),University,Finance & insurance,Couple with children,51,3,40-49k
+364,6.33,4.67,4.67,5.25,3.0,3.43,2.29,5.0,5.33,3.67,4.0,4.4,Female,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,49,3,80-89k
+365,6.33,4.33,5.67,4.0,3.0,2.86,3.57,4.5,4.67,6.33,3.67,5.2,Female,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Couple with children,52,3,> 99k
+366,6.67,4.67,7.0,7.0,6.33,4.86,3.14,6.5,6.67,6.0,6.67,6.0,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple,52,3,> 99k
+367,6.33,6.0,5.67,4.75,1.67,4.86,5.86,5.25,6.0,5.0,5.33,4.2,Female,Employed,France,Beyond master (> 5 years),University,Other,Single,55,1,40-49k
+368,7.0,7.0,7.0,7.0,7.0,6.71,4.86,7.0,7.0,5.67,7.0,7.0,Female,Job seeker,France,Beyond master (> 5 years),Business school,Industry,Couple with children,54,3,> 99k
+369,6.33,6.0,6.0,5.25,4.33,3.57,4.71,5.75,6.0,6.0,5.33,4.4,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,56,2,> 99k
+370,6.67,7.0,5.0,7.0,3.33,7.0,1.86,6.25,7.0,4.67,7.0,3.4,Male,Employed,Abroad,Beyond master (> 5 years),Engineering school,Business support services,Couple,53,3,> 99k
+371,6.0,4.33,5.67,6.0,4.33,3.43,1.29,5.5,6.0,5.0,4.0,4.4,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,52,4,> 99k
+372,7.0,7.0,7.0,7.0,7.0,4.43,6.14,7.0,7.0,7.0,7.0,7.0,Female,Employed,France,Beyond master (> 5 years),University,Information & communication,Single,51,1,30-39k
+373,6.0,4.33,4.33,3.25,3.0,2.71,1.86,4.75,2.0,4.33,4.33,3.2,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple,54,0,> 99k
+374,7.0,5.67,5.0,5.0,3.33,5.71,2.71,5.0,5.0,4.67,4.33,5.0,Female,Job seeker,France,Master (4-5 years),Other,Information & communication,Couple with children,50,2,90-99k
+375,5.33,5.0,5.67,5.25,3.33,3.14,2.86,4.5,3.33,4.67,4.0,4.0,Male,Employed,France,Bachelor (3 years),Other,Finance & insurance,Couple with children,45,2,70-79k
+376,7.0,3.67,5.33,4.75,3.67,1.86,4.86,3.75,3.67,5.0,3.0,4.0,Male,Employed,France,Master (4-5 years),Business school,Business support services,Couple,52,2,> 99k
+377,6.0,5.33,3.67,4.5,2.0,2.57,2.57,4.0,4.33,4.33,5.33,1.4,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,51,1,80-89k
+378,4.67,5.0,4.67,2.25,2.0,5.57,1.57,4.0,5.0,5.67,3.33,3.6,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,54,4,> 99k
+379,7.0,6.33,6.33,5.25,5.0,5.43,2.71,5.0,4.33,6.67,4.33,6.0,Male,Job seeker,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Single,50,4,> 99k
+380,7.0,5.0,5.67,5.75,5.0,3.0,4.71,5.25,5.33,5.0,4.33,4.6,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,48,3,> 99k
+381,6.0,6.0,6.0,4.5,5.67,4.0,4.14,5.5,5.33,4.33,6.0,5.8,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,55,2,> 99k
+382,6.0,6.33,5.33,6.5,5.0,4.86,2.29,6.0,6.0,3.67,5.67,6.8,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple,51,3,> 99k
+383,5.0,5.33,6.0,5.75,3.0,5.29,4.0,4.75,5.0,4.67,5.67,7.0,Female,Employed,France,Master (4-5 years),Business school,Business support services,Couple with children,47,2,80-89k
+384,5.0,5.67,5.33,6.5,5.33,3.57,3.86,5.25,6.0,6.0,5.33,6.6,Female,Employed,France,Beyond master (> 5 years),Business school,"Education, health & social work",Couple,49,4,80-89k
+385,6.0,5.67,5.67,7.0,4.0,6.0,3.86,6.0,5.0,6.0,4.67,6.4,Male,Job seeker,France,Master (4-5 years),Business school,Other,Couple with children,52,4,> 99k
+386,7.0,6.33,4.67,6.75,1.33,5.71,2.0,6.0,5.33,6.0,5.67,3.6,Male,Employed,Abroad,Master (4-5 years),Business school,Industry,Couple,54,1,> 99k
+387,6.0,4.0,4.0,3.25,2.33,3.71,1.14,3.25,3.67,4.33,3.67,4.4,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Single,50,2,> 99k
+388,7.0,5.33,5.0,5.5,1.0,1.86,5.29,4.0,7.0,7.0,7.0,7.0,Male,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,45,3,80-89k
+389,7.0,7.0,7.0,6.5,5.0,6.71,1.29,6.0,6.0,5.67,5.0,5.8,Female,Job seeker,France,Master (4-5 years),University,"Education, health & social work",Couple with children,47,3,60-69k
+390,5.67,6.33,5.67,6.25,3.0,4.0,1.0,6.25,5.67,4.33,5.67,6.2,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,48,4,> 99k
+391,6.33,4.33,3.67,5.75,2.67,2.43,1.57,4.75,2.33,3.0,3.0,2.6,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,50,2,60-69k
+392,6.33,4.67,5.33,6.5,4.33,2.14,2.14,6.0,6.0,4.33,4.0,6.4,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,46,2,70-79k
+393,7.0,5.67,4.67,5.75,4.0,4.86,1.43,5.0,5.0,6.33,6.0,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,45,2,> 99k
+394,7.0,6.67,6.0,5.75,4.0,6.0,3.43,6.0,5.33,5.67,6.0,7.0,Female,Employed,France,Beyond master (> 5 years),University,"Education, health & social work",Couple with children,46,1,70-79k
+395,7.0,5.0,4.67,5.5,5.0,2.71,3.29,6.25,5.67,5.67,5.33,4.8,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,45,4,> 99k
+396,6.33,5.33,4.67,4.75,3.33,4.14,2.14,3.0,1.0,3.0,2.0,3.4,Female,Employed,France,Master (4-5 years),Business school,Information & communication,Couple with children,54,1,90-99k
+397,5.67,5.33,6.33,7.0,5.33,3.29,4.43,7.0,7.0,5.33,5.0,6.8,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,56,1,> 99k
+398,7.0,6.33,6.0,6.0,3.67,4.43,3.43,5.0,6.0,7.0,5.0,3.8,Female,Employed,France,Beyond master (> 5 years),Business school,"Education, health & social work",Single,53,1,> 99k
+399,7.0,7.0,5.33,4.25,2.0,3.71,1.57,3.25,4.0,5.33,4.33,3.0,Female,Employed,France,Master (4-5 years),Business school,Real estate,Couple with children,57,2,80-89k
+400,6.33,5.33,4.67,5.0,4.33,3.71,1.14,5.5,5.0,2.67,5.33,3.8,Female,Employed,France,Master (4-5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,45,2,50-59k
+401,6.0,5.33,6.0,3.5,2.67,2.57,2.71,5.25,6.0,3.33,3.67,1.0,Male,Employed,France,Master (4-5 years),Engineering school,Other,Couple with children,50,2,40-49k
+402,5.33,4.67,5.33,6.0,4.67,1.71,1.43,6.0,6.0,3.33,5.67,2.0,Female,Employed,France,Master (4-5 years),Business school,Information & communication,Couple with children,47,3,> 99k
+403,6.0,5.0,4.33,5.75,1.67,4.0,3.57,4.0,6.0,7.0,4.0,3.6,Female,Employed,France,Master (4-5 years),Business school,Information & communication,Couple with children,45,4,70-79k
+404,5.67,6.33,5.0,6.75,4.33,6.43,4.43,4.5,5.33,4.67,5.67,4.0,Female,Employed,France,Master (4-5 years),Business school,"Education, health & social work",Couple with children,45,2,70-79k
+405,6.33,4.67,3.0,3.5,1.0,1.71,3.29,2.5,3.67,4.0,4.67,1.0,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,53,3,> 99k
+406,6.33,5.67,5.0,5.75,4.33,5.0,2.0,6.0,5.67,6.67,6.67,6.2,Male,Employed,France,Beyond master (> 5 years),Business school,Construction,Couple with children,52,0,> 99k
+407,7.0,7.0,5.0,6.25,6.33,6.0,2.71,6.75,7.0,6.0,7.0,7.0,Female,Employed,France,Beyond master (> 5 years),University,"Education, health & social work",Couple with children,50,3,30-39k
+408,6.0,5.67,4.33,5.0,3.0,3.86,1.14,4.25,3.67,5.33,4.67,3.0,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,48,2,> 99k
+409,6.0,5.67,5.67,6.75,4.0,3.43,3.0,5.75,5.67,6.0,5.67,6.4,Female,Job seeker,France,Beyond master (> 5 years),Business school,Industry,Couple with children,54,0,> 99k
+410,5.33,6.0,6.33,4.5,4.0,2.57,1.0,6.0,5.0,5.0,3.0,5.0,Female,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,45,3,> 99k
+411,7.0,5.67,4.67,5.0,2.67,3.57,3.14,6.5,6.0,7.0,5.67,6.6,Male,Employed,France,Master (4-5 years),Business school,Information & communication,Couple with children,53,3,> 99k
+412,6.33,4.67,5.0,3.75,2.0,2.71,4.57,3.5,2.33,4.0,1.67,1.2,Female,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Single,47,0,> 99k
+413,6.33,6.0,5.67,6.5,2.33,4.0,4.0,5.5,5.67,6.33,6.0,5.8,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,54,2,70-79k
+414,7.0,5.33,4.33,3.75,2.67,2.71,1.0,4.25,4.33,2.67,5.0,3.2,Female,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,58,1,> 99k
+415,5.67,5.67,5.0,6.0,3.67,3.86,2.71,4.5,6.0,5.67,4.33,3.2,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,51,3,> 99k
+416,7.0,6.33,5.33,7.0,4.67,5.43,6.0,5.75,5.67,7.0,6.67,5.6,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,46,2,> 99k
+417,6.67,6.0,4.67,5.75,2.33,4.86,3.86,5.5,6.0,7.0,4.67,6.8,Male,Employed,France,Master (4-5 years),Business school,Business support services,Couple with children,52,3,> 99k
+418,6.33,5.33,5.0,5.5,5.0,3.29,2.29,6.25,4.67,5.67,5.67,4.6,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,49,4,> 99k
+419,5.0,4.33,6.0,4.25,3.33,3.57,2.71,6.0,6.0,3.33,3.33,1.0,Female,Employed,France,Bachelor (3 years),University,Other,Couple with children,53,2,30-39k
+420,5.33,5.0,5.33,5.5,3.0,2.86,1.29,5.0,5.0,3.67,5.33,3.2,Female,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,50,3,> 99k
+421,7.0,6.0,6.33,6.25,3.33,5.71,3.14,3.5,6.0,6.33,3.0,4.4,Female,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple,54,3,> 99k
+422,7.0,6.0,4.33,7.0,4.0,3.0,4.0,6.25,5.33,5.0,5.0,4.2,Male,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Single,48,0,> 99k
+423,6.0,5.67,3.67,4.75,1.67,2.43,2.57,4.25,4.67,4.0,3.67,2.6,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,56,4,> 99k
+424,6.33,6.67,6.33,6.75,4.67,4.14,3.57,5.75,5.67,5.33,6.0,6.0,Female,Employed,France,Beyond master (> 5 years),University,"Education, health & social work",Couple with children,63,3,70-79k
+425,6.67,5.67,5.0,5.0,4.33,2.0,1.43,6.0,5.67,3.33,4.0,3.0,Female,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,46,3,> 99k
+426,7.0,6.33,6.33,6.0,6.0,3.0,2.86,5.75,6.0,5.0,6.33,6.8,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,54,2,> 99k
+427,7.0,4.67,7.0,7.0,5.0,2.0,4.0,7.0,7.0,7.0,7.0,5.0,Male,Job seeker,France,Beyond master (> 5 years),Business school,Industry,Couple with children,56,2,> 99k
+428,5.67,6.0,6.0,6.0,5.33,4.0,2.86,6.0,6.0,5.0,5.33,5.4,Male,Employed,France,Master (4-5 years),University,Finance & insurance,Couple with children,54,3,> 99k
+429,7.0,7.0,7.0,7.0,7.0,5.29,1.86,7.0,7.0,7.0,7.0,7.0,Male,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Couple with children,46,3,> 99k
+430,5.33,4.0,3.67,5.5,1.67,2.14,3.57,4.25,2.0,3.67,5.0,5.8,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,49,4,> 99k
+431,5.67,5.67,6.67,5.5,3.33,4.0,1.86,4.75,4.67,4.67,6.33,6.4,Female,Employed,France,Beyond master (> 5 years),University,Other,Couple with children,49,4,50-59k
+432,6.33,4.33,5.0,6.0,4.67,5.14,3.0,5.75,6.0,5.33,5.0,5.2,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,52,3,60-69k
+433,5.67,6.33,5.67,6.25,3.0,4.0,1.0,6.25,5.67,4.33,5.67,6.2,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,48,4,> 99k
+434,6.0,6.67,6.67,7.0,5.33,3.29,4.57,6.75,5.67,7.0,5.0,6.6,Female,Employed,France,Master (4-5 years),Business school,Business support services,Couple,50,2,> 99k
+435,5.67,5.33,5.67,3.5,4.67,3.71,1.57,6.0,6.0,6.0,5.67,4.6,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,47,4,> 99k
+436,5.33,4.33,4.0,5.5,3.33,3.29,1.71,4.0,4.0,2.33,3.33,4.6,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,45,2,> 99k
+437,6.67,4.67,6.0,6.25,2.0,5.43,4.57,6.25,7.0,5.67,4.67,5.6,Male,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,50,3,> 99k
+438,7.0,5.67,5.67,6.0,4.33,4.0,2.86,5.25,6.0,6.0,5.0,4.4,Female,Job seeker,Abroad,Beyond master (> 5 years),Business school,Industry,Couple with children,48,3,> 99k
+439,7.0,5.67,5.67,6.25,2.67,5.43,4.86,5.75,5.33,7.0,5.67,6.6,Male,Employed,France,Beyond master (> 5 years),Engineering school,Information & communication,Single,56,0,60-69k
+440,7.0,5.0,4.33,5.25,3.67,2.86,4.57,6.5,7.0,7.0,6.0,6.8,Male,Employed,France,Beyond master (> 5 years),Business school,Other,Couple with children,48,2,60-69k
+441,6.0,6.33,3.67,5.75,2.67,6.14,5.57,4.75,6.0,6.33,6.67,6.8,Male,Employed,France,Master (4-5 years),Business school,Business support services,Couple with children,47,2,> 99k
+442,6.67,6.0,4.33,6.0,3.67,6.71,1.86,6.0,5.67,4.67,4.33,4.4,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,45,3,> 99k
+443,5.0,5.0,2.67,3.5,1.67,5.57,4.43,3.5,2.67,4.33,3.0,3.6,Male,Employed,France,Master (4-5 years),Business school,Real estate,Couple with children,47,3,40-49k
+444,6.0,5.33,5.33,4.25,3.33,2.14,1.43,4.5,3.67,5.67,4.67,4.0,Male,Employed,France,Beyond master (> 5 years),Business school,Industry,Couple with children,46,1,> 99k
+445,5.67,5.0,4.33,3.25,2.67,2.57,3.14,2.75,5.33,5.33,2.33,1.6,Male,Employed,France,Beyond master (> 5 years),Other,Business support services,Couple with children,52,3,> 99k
+446,6.33,4.33,5.0,5.0,3.0,5.71,1.71,4.75,3.0,4.67,5.0,3.2,Female,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,49,2,> 99k
+447,5.33,4.67,4.0,4.25,1.67,2.0,1.14,5.0,3.33,4.67,4.33,2.2,Male,Employed,France,Beyond master (> 5 years),Engineering school,Industry,Couple with children,53,2,> 99k
+448,7.0,5.67,6.33,6.0,6.0,3.29,1.0,6.0,6.0,6.67,5.67,6.0,Male,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,46,4,> 99k
+449,6.0,6.67,6.0,6.25,6.0,6.57,4.43,6.0,6.0,6.67,6.0,7.0,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,48,3,> 99k
+450,6.0,4.67,3.67,3.5,2.67,3.0,1.43,3.25,4.33,2.0,3.0,1.6,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple,53,1,90-99k
+451,7.0,6.33,6.67,6.5,2.33,5.86,4.14,5.0,4.33,6.0,5.33,6.4,Female,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple,51,4,< 20k
+452,7.0,7.0,6.33,7.0,3.0,2.86,4.43,7.0,5.0,3.67,6.33,6.4,Female,Employed,France,Beyond master (> 5 years),Business school,Business support services,Couple with children,54,2,> 99k
+453,6.0,6.0,6.0,6.25,2.33,3.57,5.29,5.75,6.0,4.67,5.67,5.6,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Couple with children,47,3,> 99k
+454,6.0,4.33,4.0,5.5,2.0,3.29,2.29,4.5,4.67,5.0,3.33,4.0,Male,Employed,France,Master (4-5 years),Business school,Industry,Couple with children,56,3,> 99k
+455,6.0,6.0,3.67,4.75,1.67,2.71,1.0,4.5,5.0,4.0,3.67,3.8,Male,Employed,France,Beyond master (> 5 years),Engineering school,Information & communication,Couple with children,50,3,> 99k
+456,6.67,5.33,5.0,4.0,4.0,3.71,3.0,5.75,5.33,5.33,2.67,2.0,Male,Employed,France,Master (4-5 years),Business school,Finance & insurance,Single,46,0,80-89k
+457,7.0,6.33,4.67,5.75,2.0,3.71,4.43,5.75,7.0,6.0,6.33,6.6,Male,Employed,France,Beyond master (> 5 years),Business school,Information & communication,Couple with children,45,1,> 99k
+458,6.33,5.33,6.67,6.75,1.67,4.86,4.0,5.75,4.0,6.33,4.67,6.8,Female,Employed,France,Beyond master (> 5 years),Business school,"Trade, transport, hotels & restaurants",Couple with children,50,3,90-99k
+459,7.0,5.67,6.0,7.0,4.33,3.43,2.43,6.25,4.33,5.0,5.67,5.8,Male,Employed,France,Beyond master (> 5 years),Engineering school,Industry,Couple with children,56,3,> 99k
+460,6.0,6.0,5.33,4.0,2.33,3.29,1.86,4.0,5.0,5.33,4.67,5.0,Female,Employed,France,Beyond master (> 5 years),Business school,Finance & insurance,Couple with children,55,3,> 99k
