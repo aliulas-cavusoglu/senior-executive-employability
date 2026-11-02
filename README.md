@@ -2,8 +2,6 @@
 
 This project looks at how senior executives (aged 45 to 65) in France see their own employability. It uses their answers to a questionnaire that measures 12 dimensions of perceived employability.
 
-It was written as an individual project for an Introduction to Machine Learning course (2026-2027).
-
 ## Questions
 
 1. **What goes with professional self-efficacy?** Self-efficacy is a person's confidence that they could find another job. I study it with a linear regression.
@@ -22,8 +20,8 @@ It was written as an individual project for an Introduction to Machine Learning 
 
 | File | What it is |
 | --- | --- |
-| `CAVUSOGLU_Ali_project.pdf` | The written report (11 pages). Start here. |
-| `CAVUSOGLU_Ali_project.ipynb` | The Jupyter notebook with all the code, tables and charts. |
+| `CAVUSOGLU_employability_report.pdf` | The written report (11 pages). Start here. |
+| `CAVUSOGLU_employability_analysis.ipynb` | The Jupyter notebook with all the code, tables and charts. |
 | `data/employability.csv` | The survey data (460 rows, 23 columns). |
 | `data/codebook.csv` | A description of every column in the data. |
 | `requirements.txt` | The Python packages and versions used. |
@@ -40,7 +38,7 @@ It was written as an individual project for an Introduction to Machine Learning 
 3. Open the notebook:
 
    ```bash
-   jupyter notebook CAVUSOGLU_Ali_project.ipynb
+   jupyter notebook CAVUSOGLU_employability_analysis.ipynb
    ```
 
 4. Choose **Kernel > Restart & Run All**.
